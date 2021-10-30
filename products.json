@@ -1,0 +1,39 @@
+[
+	{
+		"id": 1,
+		"name": "Pyramid",
+		"description": "A pyramid is a structure whose outer surfaces are triangular and converge to a single step at the top.",
+		"img": "https://i.ibb.co/8NVnWDt/services-1.jpg"
+	},
+	{
+		"id": 2,
+		"name": "Florence",
+		"description": "Florence, capital of Italy’s Tuscany region, is home to many masterpieces of Renaissance art and architecture.",
+		"img": "https://i.ibb.co/G2WtrG3/services-2.jpg"
+	},
+	{
+		"id": 3,
+		"name": "Greenland",
+		"description": "Surgery is a medical or dental specialty that uses operative manual and instrumental.",
+		"img": "https://i.ibb.co/WtjgJzN/services-3.jpg"
+	},
+	{
+		"id": 4,
+		"name": "Louvre Museum",
+		"description": "The Louvre, or the Louvre Museum, is the world's most-visited museum and a historic monument in Paris, France.",
+		"img": "https://i.ibb.co/52tJmGD/services-4.jpg"
+	},
+	{
+		"id": 5,
+		"name": "Maldives",
+		"description": "Maldives, officially the Republic of Maldives, is an archipelagic state in the Indian subcontinent of Asia, situated in the Indian Ocean.",
+		"img": "https://i.ibb.co/fY2ZLPV/services-5.jpg"
+	},
+	{
+		"id": 6,
+		"name": "Tajmahal",
+		"price": "300",
+		"description": "An immense mausoleum of white marble, built in Agra between 1631 and 1648 by order of the Mughal emperor Shah Jahan in memory of his favourite wife.",
+		"img": "https://i.ibb.co/KKmR5kD/services-6.jpg"
+	}
+]
