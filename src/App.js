@@ -48,9 +48,9 @@ function App() {
 							<AboutUs></AboutUs>
 						</PrivateRoute>
 
-						<Route path="/booking/:productId">
+						<PrivateRoute path="/booking/:productId">
 							<Booking></Booking>
-						</Route>
+						</PrivateRoute>
 
 						<Route path="*">
 							<NotFound></NotFound>

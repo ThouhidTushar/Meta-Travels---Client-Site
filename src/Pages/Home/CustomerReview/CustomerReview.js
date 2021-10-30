@@ -5,7 +5,7 @@ import { Carousel } from 'react-bootstrap';
 const CustomerReview = () => {
 	return (
 		<div className="row mt-5">
-			<h1>~~What Our Clients Says~~</h1>
+			<h1>~~What Our Clients Say~~</h1>
 
 			<div className="col-lg-6 container mt-5 ">
 				<Carousel>

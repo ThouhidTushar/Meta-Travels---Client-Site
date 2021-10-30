@@ -6,7 +6,7 @@ const Packages = () => {
 	const [packages, setPackages] = useState([])
 
 	useEffect(() => {
-		fetch('/products.json')
+		fetch('https://cryptic-woodland-86992.herokuapp.com/products')
 			.then(res => res.json())
 			.then(data => setPackages(data))
 	}, [])
