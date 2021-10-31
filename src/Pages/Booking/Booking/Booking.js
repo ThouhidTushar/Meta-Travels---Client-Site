@@ -1,20 +1,23 @@
 import React from 'react';
 import { useParams } from 'react-router';
+import { Card, Button } from 'react-bootstrap';
 import Product from '../../Home/Product/Product';
 import Packages from '../../Home/Packages/Packages';
-import { Card, Button } from 'react-bootstrap';
 
 
 
-const Booking = () => {
+const Booking = ({ }) => {
 	const { productId } = useParams();
 
 
 	return (
 		<div>
 
-			<h1>Booking</h1>
+			<Packages></Packages>
 
+			<div>
+				<h1>Booking</h1>
+			</div>
 
 			<div className="row mx-5 d-flex justify-content-center">
 
@@ -25,7 +28,7 @@ const Booking = () => {
 						<Card.Text>
 							A pyramid is a structure whose outer surfaces are triangular and converge to a single step at the top
 						</Card.Text>
-						<Button variant="primary">Buy Now</Button>
+						<Button variant="primary">Book Now</Button>
 					</Card.Body>
 				</Card>
 
@@ -36,7 +39,7 @@ const Booking = () => {
 						<Card.Text>
 							Florence, capital of Italy’s Tuscany region, is home to many masterpieces of Renaissance art and architecture.
 						</Card.Text>
-						<Button variant="primary">Buy Now</Button>
+						<Button variant="primary">Book Now</Button>
 					</Card.Body>
 				</Card>
 
@@ -47,7 +50,7 @@ const Booking = () => {
 						<Card.Text>
 							Surgery is a medical or dental specialty that uses operative manual and instrumental.
 						</Card.Text>
-						<Button variant="primary">Buy Now</Button>
+						<Button variant="primary">Book Now</Button>
 					</Card.Body>
 				</Card>
 
@@ -58,7 +61,7 @@ const Booking = () => {
 						<Card.Text>
 							The Louvre, or the Louvre Museum, is the world's most-visited museum and a historic monument in Paris, France.
 						</Card.Text>
-						<Button variant="primary">Buy Now</Button>
+						<Button variant="primary">Book Now</Button>
 					</Card.Body>
 				</Card>
 
@@ -70,7 +73,7 @@ const Booking = () => {
 						<Card.Text>
 							Maldives, officially the Republic of Maldives, is an archipelagic state in the Indian subcontinent of Asia, situated in the Indian Ocean.
 						</Card.Text>
-						<Button variant="primary">Buy Now</Button>
+						<Button variant="primary">Book Now</Button>
 					</Card.Body>
 				</Card>
 
@@ -82,7 +85,7 @@ const Booking = () => {
 						<Card.Text>
 							An immense mausoleum of white marble, built in Agra between 1631 and 1648 by order of the Mughal emperor Shah Jahan in memory of his favourite wife.
 						</Card.Text>
-						<Button variant="primary">Buy Now</Button>
+						<Button variant="primary">Book Now</Button>
 					</Card.Body>
 				</Card>
 
