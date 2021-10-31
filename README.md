@@ -4,8 +4,8 @@
 ### Live Site Link
 
 [Click Here To Visit Live Website](https://meta-travels.web.app/)
-[Github Client Site](https://github.com/programming-hero-web-course1/tourism-or-delivery-website-client-side-ThouhidTushar)
-[Github Server Site](https://github.com/programming-hero-web-course1/tourism-or-delivery-website-server-side-ThouhidTushar)
+[Github Client Side](https://github.com/programming-hero-web-course1/tourism-or-delivery-website-client-side-ThouhidTushar)
+[Github Server Side](https://github.com/programming-hero-web-course1/tourism-or-delivery-website-server-side-ThouhidTushar)
 
 - Meta Travels takes pride in giving the customers a choice of their specific accommodation needs, no matter where – regionally, nationally, and internationally. Certain corporate discounts are available, with preferred accommodation establishments (with bill back facilities).
 
